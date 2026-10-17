@@ -4,6 +4,10 @@
   themes: all;
 }
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .scrollable {
   overflow-y: auto;
   max-height: 100vh;
